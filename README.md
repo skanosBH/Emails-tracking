@@ -5,7 +5,7 @@ Using a tracking pixel for monitoring the opening of emails.
 
 
 ## The Idea
-Spy pixels or tracker pixels are hyperlinks to remote image files in HTML email messages that have the effect of spying on the person reading the email if the image is downloaded. They are commonly embedded in the HTML of an email as small, imperceptible, transparent graphic files. Spy pixels are commonly used in marketing.
+Spy pixels or tracker pixels are hyperlinks to remote image files in HTML email messages that staelthily monitor the recipent's activity upon downloading the associated pixel. They are commonly embedded in the HTML of an email as small, imperceptible, transparent graphic files. Spy pixels are commonly used in marketing.
 
 [Click here](https://en.wikipedia.org/wiki/Spy_pixel) to learn more.
 
