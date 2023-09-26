@@ -1,10 +1,12 @@
 # Emails-tracking
 Using a tracking pixel for monitoring the opening of emails.
-*For Learning Purposes only*
+
+<b>For Learning Purposes only</b>
 
 
 ## The Idea
 Spy pixels or tracker pixels are hyperlinks to remote image files in HTML email messages that have the effect of spying on the person reading the email if the image is downloaded. They are commonly embedded in the HTML of an email as small, imperceptible, transparent graphic files. Spy pixels are commonly used in marketing.
+
 [Click here](https://en.wikipedia.org/wiki/Spy_pixel) to learn more.
 
 
@@ -47,7 +49,9 @@ In case of troubleshoots, check the error logs in `/var/apache2/logs/error.log`.
 
 
 ### Step 5
-Install the Chrome plugin <i>HTML Editor for Gmail<i> and add `<img src ="_VM's_IP_/first" height=1 width=1>` to your email or your web page.
+Install the Chrome plugin _HTML Editor for Gmail__ and add `<img src ="_VM's_IP_/first" height=1 width=1>` to your email or your web page.
+
+
 
 ## Results
 When a user opens an email with the embedded spy pixel, the User-Agent string, timestamp, and IP Address are logged to the `Emails-tracking/spy_pixel_logs.txt` file.
