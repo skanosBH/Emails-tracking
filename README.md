@@ -55,3 +55,5 @@ Install the Chrome plugin _HTML Editor for Gmail__ and add `<img src ="_VM's_IP_
 
 ## Results
 When a user opens an email with the embedded spy pixel, the User-Agent string, timestamp, and IP Address are logged to the `Emails-tracking/spy_pixel_logs.txt` file.
+
+You can use _https://temp-mail.org/_ to test the application with random temporary email addresses.
